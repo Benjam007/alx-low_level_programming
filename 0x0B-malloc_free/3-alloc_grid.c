@@ -1,20 +1,6 @@
-sammykingx
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0B-malloc_free/3-alloc_grid.c
-
-sammykingx completed all task
- 0 contributors
-43 lines (38 sloc)  689 Bytes
 #include "main.h"
+#include <stdlib.h>
+
 /**
  * alloc_grid - allocates a grid, make space and free space
  * @width: takes in width of grid
