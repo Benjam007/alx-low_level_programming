@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdlib.h>
+
 /**
  *_strlen - count array
  *@s: array of elements
